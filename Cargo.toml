@@ -1,0 +1,9 @@
+[workspace]
+
+members = [
+    "mantaray",
+    "bee_api",
+    "wiki_extractor",
+    "bee_herder",
+    "zim",
+]
